@@ -4,6 +4,7 @@
 
 Input - start date, end date, format and type of output.
 Output - list of sundays for selected period.
+Python 3 is used.
 
 ### How to start
 
